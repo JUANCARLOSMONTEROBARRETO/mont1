@@ -1,4 +1,181 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA
+http://170.39.192.130:2095/56956946432pro/061123pro/99399
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD (Op.1)" tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA HD (Op.1)
+http://170.39.192.130:2095/56956946432pro/061123pro/99400
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD (Op.2)" tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA HD (Op.2)
+http://170.39.192.130:2095/56956946432pro/061123pro/99401
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD (op.3)" tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA HD (op.3)
+http://170.39.192.130:2095/56956946432pro/061123pro/99402
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" group-title="CHILE",CHV
+http://170.39.192.130:2095/56956946432pro/061123pro/99405
+#EXTINF:-1 tvg-id="" tvg-name="CHV HD (Op.1)" tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" group-title="CHILE",CHV HD (Op.1)
+http://170.39.192.130:2095/56956946432pro/061123pro/99406
+#EXTINF:-1 tvg-id="" tvg-name="CHV HD (Op.2)" tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" group-title="CHILE",CHV HD (Op.2)
+http://170.39.192.130:2095/56956946432pro/061123pro/99407
+#EXTINF:-1 tvg-id="" tvg-name="CHV HD (Op.3)" tvg-logo="https://i.postimg.cc/ZKKp1G9m/chv.png" group-title="CHILE",CHV HD (Op.3)
+http://170.39.192.130:2095/56956946432pro/061123pro/99408
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD (Op.1)" tvg-logo="https://i.postimg.cc/tTC9Cty1/Canal-13.png" group-title="CHILE",Canal 13 HD (Op.1)
+http://170.39.192.130:2095/56956946432pro/061123pro/99413
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD (Op.2)" tvg-logo="https://i.postimg.cc/tTC9Cty1/Canal-13.png" group-title="CHILE",Canal 13 HD (Op.2)
+http://170.39.192.130:2095/56956946432pro/061123pro/99414
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD (Op.3)" tvg-logo="https://i.postimg.cc/tTC9Cty1/Canal-13.png" group-title="CHILE",Canal 13 HD (Op.3)
+http://170.39.192.130:2095/56956946432pro/061123pro/99415
+#EXTINF:-1 tvg-id="" tvg-name="13c" tvg-logo="https://static.13.cl/7/sites/all/themes/m_cable/resources/images/logo_13cl_cable_2018.png" group-title="CHILE",13c
+http://170.39.192.130:2095/56956946432pro/061123pro/99416
+#EXTINF:-1 tvg-id="" tvg-name="T13" tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png" group-title="CHILE",T13
+http://170.39.192.130:2095/56956946432pro/061123pro/99417
+#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_4eb6696e72efa5710a41290aa9cffbe41678456336.png" group-title="CHILE",13 Realities
+http://170.39.192.130:2095/56956946432pro/061123pro/99423
+#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="https://i.ibb.co/0CQDHMC/descarga-1.png" group-title="CHILE",13 Teleseries
+http://170.39.192.130:2095/56956946432pro/061123pro/99424
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://i.postimg.cc/c1zd0nzH/TVN.png" group-title="CHILE",TVN
+http://170.39.192.130:2095/56956946432pro/061123pro/99425
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD (op.2)" tvg-logo="https://i.postimg.cc/c1zd0nzH/TVN.png" group-title="CHILE",TVN HD (op.2)
+http://170.39.192.130:2095/56956946432pro/061123pro/99428
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://i.postimg.cc/QMLbDPmF/24-Horas-TVN-corto.png" group-title="CHILE",24 Horas
+http://170.39.192.130:2095/56956946432pro/061123pro/99432
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/CNN_Chile_Logo.svg/750px-CNN_Chile_Logo.svg.png" group-title="CHILE",CNN Chile
+http://170.39.192.130:2095/56956946432pro/061123pro/99435
+#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="CHILE",La Red
+http://170.39.192.130:2095/56956946432pro/061123pro/99436
+#EXTINF:-1 tvg-id="" tvg-name="La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="CHILE",La Red HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99437
+#EXTINF:-1 tvg-id="" tvg-name="La Red FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="CHILE",La Red FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99438
+#EXTINF:-1 tvg-id="" tvg-name="TV+ FHD" tvg-logo="https://i.postimg.cc/FzNs0mCB/TV.png" group-title="CHILE",TV+ FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99439
+#EXTINF:-1 tvg-id="" tvg-name="UCV 3 HD" tvg-logo="https://i.postimg.cc/RZ0FFVP8/UCV-3.png" group-title="CHILE",UCV 3 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99441
+#EXTINF:-1 tvg-id="" tvg-name="TV Diputados" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBRsY5o-TNGEMmCHyKe6FogTY4z6-AsmArNqQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="CHILE",TV Diputados
+http://170.39.192.130:2095/56956946432pro/061123pro/99442
+#EXTINF:-1 tvg-id="" tvg-name="REC TV" tvg-logo="https://i.postimg.cc/fLFcGLyf/Logo-Rec-TV-2015.png" group-title="CHILE",REC TV
+http://170.39.192.130:2095/56956946432pro/061123pro/99506
+#EXTINF:-1 tvg-id="" tvg-name="PORFAVOR TENER PACIENCIA LOS EVENTOS O PARTIDOS ESPECIALES COMIENSAN A TRANSMITIR 10 O 15 MINUTOS ANTES DEL PARTIDO" tvg-logo="https://www.playtvchile.com/logo%20(9).png" group-title="DEPORTES PREMIUM",PORFAVOR TENER PACIENCIA LOS EVENTOS O PARTIDOS ESPECIALES COMIENSAN A TRANSMITIR 10 O 15 MINUTOS ANTES DEL PARTIDO
+http://170.39.192.130:2095/56956946432pro/061123pro/99549
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Deportivos" tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES PREMIUM",Eventos Deportivos
+http://170.39.192.130:2095/56956946432pro/061123pro/99551
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados (Mexico)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES PREMIUM",Afizzionados (Mexico)
+http://170.39.192.130:2095/56956946432pro/061123pro/99552
+#EXTINF:-1 tvg-id="" tvg-name="All Sports" tvg-logo="https://i.ibb.co/Fz7qRJb/images-q-tbn-ANd9-Gc-Re7pv-Dq-T6-Vqh-L1p-M2j-O8lp-Dphw-BWAytlep-Qw-usqp-CAU.jpg" group-title="DEPORTES PREMIUM",All Sports
+http://170.39.192.130:2095/56956946432pro/061123pro/99553
+#EXTINF:-1 tvg-id="" tvg-name="Bar TV La Liga" tvg-logo="https://i.ibb.co/J5qrZJ5/meta-image.jpg" group-title="DEPORTES PREMIUM",Bar TV La Liga
+http://170.39.192.130:2095/56956946432pro/061123pro/99554
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://i.postimg.cc/65QdrYf8/bein-es.jpg" group-title="DEPORTES PREMIUM",Bein Sports Ñ
+http://170.39.192.130:2095/56956946432pro/061123pro/99556
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1164.png" group-title="DEPORTES PREMIUM",Bein Sports Extra
+http://170.39.192.130:2095/56956946432pro/061123pro/99557
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES PREMIUM",Bein Sports USA
+http://170.39.192.130:2095/56956946432pro/061123pro/99558
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports USA HD" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES PREMIUM",Bein Sports USA HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99559
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 1" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES PREMIUM",Bein Sports English 1
+http://170.39.192.130:2095/56956946432pro/061123pro/99560
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English 2" tvg-logo="https://i.postimg.cc/05nYKLDg/bein-nor.jpg" group-title="DEPORTES PREMIUM",Bein Sports English 2
+http://170.39.192.130:2095/56956946432pro/061123pro/99561
+#EXTINF:-1 tvg-id="" tvg-name="Combate (Brasil)" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="DEPORTES PREMIUM",Combate (Brasil)
+http://170.39.192.130:2095/56956946432pro/061123pro/99573
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES PREMIUM",Claro Sports
+http://170.39.192.130:2095/56956946432pro/061123pro/99574
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD" tvg-logo="https://i.ibb.co/YTYgjGx/d.png" group-title="DEPORTES PREMIUM",Claro Sports HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99575
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 1" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN 1
+http://170.39.192.130:2095/56956946432pro/061123pro/99576
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 1 HD" tvg-logo="https://i.ibb.co/10Z8KvD/2560px-DAZN-1-Logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN 1 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99577
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 2" tvg-logo="https://i.ibb.co/gFySbMw/Sin-t-tulo.jpg" group-title="DEPORTES PREMIUM",DA*ZN 2
+http://170.39.192.130:2095/56956946432pro/061123pro/99578
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 2 HD" tvg-logo="https://i.ibb.co/gFySbMw/Sin-t-tulo.jpg" group-title="DEPORTES PREMIUM",DA*ZN 2 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99579
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 3" tvg-logo="https://i.ibb.co/Xbt6BwT/Sin-t-tulo2.jpg" group-title="DEPORTES PREMIUM",DA*ZN 3
+http://170.39.192.130:2095/56956946432pro/061123pro/99580
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN 4" tvg-logo="https://i.ibb.co/hmtwHjC/Sin-t-tulo4.jpg" group-title="DEPORTES PREMIUM",DA*ZN 4
+http://170.39.192.130:2095/56956946432pro/061123pro/99581
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN F1" tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2021/03/dazn-f1-logo.jpg" group-title="DEPORTES PREMIUM",DA*ZN F1
+http://170.39.192.130:2095/56956946432pro/061123pro/99582
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN LA LIGA
+http://170.39.192.130:2095/56956946432pro/061123pro/99583
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA HD" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN LA LIGA HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99584
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA 2" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN LA LIGA 2
+http://170.39.192.130:2095/56956946432pro/061123pro/99585
+#EXTINF:-1 tvg-id="" tvg-name="DA*ZN LA LIGA 2 HD" tvg-logo="https://i.ibb.co/ZYm66kX/245px-DAZN-La-Liga-logo-svg.png" group-title="DEPORTES PREMIUM",DA*ZN LA LIGA 2 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99586
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP (Arg)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES PREMIUM",D*TV SP (Arg)
+http://170.39.192.130:2095/56956946432pro/061123pro/99587
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP HD (arg)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES PREMIUM",D*TV SP HD (arg)
+http://170.39.192.130:2095/56956946432pro/061123pro/99588
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP (Col)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES PREMIUM",D*TV SP (Col)
+http://170.39.192.130:2095/56956946432pro/061123pro/99591
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP (Peru)" tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES PREMIUM",D*TV SP (Peru)
+http://170.39.192.130:2095/56956946432pro/061123pro/99592
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP +" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES PREMIUM",D*TV SP +
+http://170.39.192.130:2095/56956946432pro/061123pro/99593
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP + HD" tvg-logo="https://i.postimg.cc/3J0QRgcj/D.png" group-title="DEPORTES PREMIUM",D*TV SP + HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99594
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP 2" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES PREMIUM",D*TV SP 2
+http://170.39.192.130:2095/56956946432pro/061123pro/99595
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP 2 HD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES PREMIUM",D*TV SP 2 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99596
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP 2 FHD" tvg-logo="https://i.postimg.cc/Wbkwt36q/D2.png" group-title="DEPORTES PREMIUM",D*TV SP 2 FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99597
+#EXTINF:-1 tvg-id="" tvg-name="D*TV SP FIGHT" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="DEPORTES PREMIUM",D*TV SP FIGHT
+http://170.39.192.130:2095/56956946432pro/061123pro/99598
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 1" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES PREMIUM",ES*PN ARG 1
+http://170.39.192.130:2095/56956946432pro/061123pro/99599
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 1 HD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES PREMIUM",ES*PN ARG 1 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99600
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 1 FHD" tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES PREMIUM",ES*PN ARG 1 FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99601
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 2" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES PREMIUM",ES*PN ARG 2
+http://170.39.192.130:2095/56956946432pro/061123pro/99602
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 2 HD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES PREMIUM",ES*PN ARG 2 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99603
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 2 FHD" tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES PREMIUM",ES*PN ARG 2 FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99604
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 3" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES PREMIUM",ES*PN ARG 3
+http://170.39.192.130:2095/56956946432pro/061123pro/99605
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 3 HD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES PREMIUM",ES*PN ARG 3 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99606
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN ARG 3 FHD" tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES PREMIUM",ES*PN ARG 3 FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99607
+#EXTINF:-1 tvg-id="" tvg-name="Es*pn Premium Argentina" tvg-logo="https://i.ibb.co/c3KSp7k/TAVI-Espn-Premium-Fox-Sports-Premium.png" group-title="DEPORTES PREMIUM",Es*pn Premium Argentina
+http://170.39.192.130:2095/56956946432pro/061123pro/99608
+#EXTINF:-1 tvg-id="" tvg-name="Es*pn Premium Argentina HD" tvg-logo="https://i.ibb.co/c3KSp7k/TAVI-Espn-Premium-Fox-Sports-Premium.png" group-title="DEPORTES PREMIUM",Es*pn Premium Argentina HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99609
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 4" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES PREMIUM",ES*PN 4
+http://170.39.192.130:2095/56956946432pro/061123pro/99610
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 4 HD" tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES PREMIUM",ES*PN 4 HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99611
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN Colombia" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES PREMIUM",ES*PN Colombia
+http://170.39.192.130:2095/56956946432pro/061123pro/99614
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN Extra Brasil" tvg-logo="http://cdn.vizio.com/skin/frontend/enterprise/vizio/landingpages/gamedaylanding2/images/gd-apps-logo-ESPN-extra.png" group-title="DEPORTES PREMIUM",ES*PN Extra Brasil
+http://170.39.192.130:2095/56956946432pro/061123pro/99615
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 1 Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES PREMIUM",ES*PN 1 Latino
+http://170.39.192.130:2095/56956946432pro/061123pro/99616
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 1 Latino HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES PREMIUM",ES*PN 1 Latino HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99617
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 1 Latino FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES PREMIUM",ES*PN 1 Latino FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99618
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 2 Latino
+http://170.39.192.130:2095/56956946432pro/061123pro/99619
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino HD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 2 Latino HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99620
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 2 Latino FHD" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" group-title="DEPORTES PREMIUM",ES*PN 2 Latino FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99621
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 3 Latino" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino
+http://170.39.192.130:2095/56956946432pro/061123pro/99622
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 3 Latino HD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99623
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN 3 Latino FHD" tvg-logo="http://dshm.tmsimg.com/h3/NowShowing/73833/s73833_h3_aa.png" group-title="DEPORTES PREMIUM",ES*PN 3 Latino FHD
+http://170.39.192.130:2095/56956946432pro/061123pro/99624
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN Deportes" tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES PREMIUM",ES*PN Deportes
+http://170.39.192.130:2095/56956946432pro/061123pro/99625
+#EXTINF:-1 tvg-id="" tvg-name="Es*pn Extra" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES PREMIUM",Es*pn Extra
+http://170.39.192.130:2095/56956946432pro/061123pro/99626
+
+
+#EXTM3U
 #EXTINF:-1,iptvtools_2
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1,iptvtools_4

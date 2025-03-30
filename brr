@@ -1,4 +1,12 @@
-#EXTM3U
+#EXTINF
+#EXTINF:-1 tvg-id="" tvg-name="Es*pn Extra HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="DEPORTES PREMIUM",Es*pn Extra HD
+http://170.39.192.130:2095/56956946432pro/061123pro/99627
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN Usa" tvg-logo="https://i.postimg.cc/3wGdsjwD/espn.png" group-title="DEPORTES PREMIUM",ES*PN Usa
+http://170.39.192.130:2095/56956946432pro/061123pro/99628
+#EXTINF:-1 tvg-id="" tvg-name="ES*PN News Usa" tvg-logo="https://i.ibb.co/mC80pL4/espn-news-logo.gif" group-title="DEPORTES PREMIUM",ES*PN News Usa
+http://170.39.192.130:2095/56956946432pro/061123pro/99629
+#EXTINF:-1 tvg-id="" tvg-name="EU*RO*SPORTS 1" tvg-logo="http://127.0.0.1/" group-title="DEPORTES PREMIUM",EU*RO*SPORTS 1
+http://170.39.192.130:2095/56956946432pro/061123pro/99630
 #EXTINF:-1 tvg-id="" tvg-name="Oderbruch LEG S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsHNNGqOPTc73rpm8IeWxmEDPn9.jpg" group-title="LANÇAMENTOS 2024",Oderbruch LEG S01 E08
 http://178.162.197.184:2052/series/TouroVod-LAmPPgFU6n/rAMbXjhyzW/164846.mp4
 #EXTINF:-1 tvg-id="" tvg-name="De Ator a Cantor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bn0C2BUCrlloxqOPohjMshjYz9Q.jpg" group-title="LANÇAMENTOS 2024",De Ator a Cantor S01 E01

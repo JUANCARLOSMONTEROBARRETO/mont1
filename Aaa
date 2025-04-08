@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR HD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/1155888.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR SD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/33469.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR HD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/43637.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 SUR SD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/1155889.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR HD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/1155890.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 SUR SD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/43639.m3u8
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 4 SUR HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 SUR HD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/1118360.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="LD - ESPN 4 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 SUR SD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/18580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 5 SUR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSpbKTI13-hGG6o-rFVP1cZrpcq_lXcrL27A&s" group-title="• LATINO DEPORTES •",LD - ESPN 5 SUR HD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/1198287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 6 SUR HD" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-espn-6-252x252.webp" group-title="• LATINO DEPORTES •",LD - ESPN 6 SUR HD
+http://tv.nstvlatino.com:8080/live/538517/Daniel/1197851.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD -  ESPN 7 SUR HD" tvg-
 #EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA
 http://170.39.192.130:2095/56999047297play/090424play/99399
 #EXTINF:-1 tvg-id="" tvg-name="MEGA HD (Op.1)" tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA HD (Op.1)

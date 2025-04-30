@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg" group-title="→ VOD FANTASÍA ←",Gabriel 
+http://fastream.xyz:8080/movie/943425434tv/jb849u/271292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Detective en el Kinder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYwEZ7TWFAAuZucUJmWLktfLCEN.jpg" group-title="→ VOD COMEDIA ←",Un Detective en el Kinder
+http://fastream.xyz:8080/movie/943425434tv/jb849u/271290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bajo el Mismo Cielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmTchyxSeCWc24vZAYT37cSL1pa.jpg" group-title="→ VOD DRAMA ←",Bajo el Mismo Cielo
+http://fastream.xyz:8080/movie/943425434tv/jb849u/271291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El día que la Tierra explotó: Una película de los Looney Tunes (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq32P0VC4yWYujyByp7ieNCZjA.jpg" group-title=" → VOD ESTRENOS 2025 ←",El día que la Tierra explotó: Una película de los Looney Tunes (2025)
+http://fastream.xyz:8080/movie/943425434tv/jb849u/271288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La cita (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCCtlyWeDkUUFu9eESd4jIQnUcj.jpg" group-title=" → VOD ESTRENOS 2025 ←",La cita (2025)
+http://fastream.xyz:8080/movie/943425434tv/jb849u/271289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demolicion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGAQasaiocRmXkabQuvM2o1kjBB.jpg" group-title="→ VOD DRAMA ←",Demolicion
+http://fastream.xyz:8080/movie/943425434tv/jb849u/271287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Dos Papas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KrH8cM2KudyhjJK8NtTgf2lMIP.jpg" group-title="→ VOD DRAMA ←",Los Dos Papas
+
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="NCAAF 002 | NO GAMES UNTIL AUGUST 23RD 2025" tvg-logo="https://wisportsheroics.com/wp-content/uploads/2021/08/ncaa-football-logo.jpg" group-title="PPV NCAA  04/07",NCAAF 002 | NO GAMES UNTIL AUGUST 23RD 2025
 http://my-flashtv.com:8080/live/melby7752/q9nb56nm1a/1950060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NCAAB 001 | 1 FLORIDA @ 1 HOUSTON (M) | 4/7 8:50 PM | CBS" tvg-logo="https://jonathanstryer.files.wordpress.com/2022/03/0ba1a-screen-shot-2021-01-30-at-5.54.31-pm.png?w=1200" group-title="PPV NCAA  04/07",NCAAB 001 | 1 FLORIDA @ 1 HOUSTON (M) | 4/7 8:50 PM | CBS

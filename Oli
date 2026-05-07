@@ -1,4 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1,ESPN HD
+https://cdn-5.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-1,ESPN 2
+https://cdn-5.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-1,ESPN 3
+https://cdn-5.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-1,ESPN 4
+https://cdn-5.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:-1,ESPN 5
+https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
+#EXTINF:-1,ESPN 6
+https://cdn-5.nxplay.com.br/ESPN_6/index.m3u8
 #EXTINF:-1, MOVISTAR ESTRENOS
 http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236376.ts
 #EXTINF:-1, MOVISTAR ACCION
